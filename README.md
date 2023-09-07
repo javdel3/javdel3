@@ -2,11 +2,11 @@
 
 #### About Me:
 
-- 🔭 I’m currently working on a college project.
-- 🌱 I’m currently learning Java.
-- 👯 I’m looking to collaborate on GitHub.
-- 🤔 I’m looking for help with Inheritance OOP concepts.
-- 💬 Ask me about Food!
-- 📫 How to reach me: [My Profile](https://github.com/javdel3)
+- 🔭 I’m currently working on my own website.
+- 🌱 I’m currently learning Python.
+- 👯 I’m eager to collaborate and learn.
+- 🤔 I’m looking for help with learning about APIs.
+- 💬 Ask me about transitioning from being a Restaurant Server to Developer!
+- 📫 How to reach me: [My Profile](https://github.com/javdel3) or [X](https://twitter.com/JaviTheDelgado)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Burritos 🌯 are my favorite food!
+
