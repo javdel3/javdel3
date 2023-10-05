@@ -2,8 +2,8 @@
 
 #### About Me:
 
-- 🔭 I’m currently working on my own website.
-- 🌱 I’m currently learning Python.
+- 🔭 I’m currently working on training an AI.
+- 🌱 I’m currently learning C++ and hope to learn Python soon.
 - 👯 I’m eager to collaborate and learn.
 - 🤔 I’m looking to learn more about APIs.
 - 💬 Ask me about transitioning from being a Restaurant Server to Developer!
