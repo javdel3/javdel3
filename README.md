@@ -3,7 +3,7 @@
 #### About Me:
 
 - 🔭 I’m currently working on a personal project.
-- 🌱 I’m currently learning Assembly Language and hope to learn Python soon.
+- 🌱 I’m currently learning Embedded Systems and hope to continue learning Python.
 - 👯 I’m eager to collaborate, learn, and do a hackathon.
 - 🤔 I’m looking to learn more about APIs.
 - 💬 Ask me about transitioning from being a Restaurant Server to Developer!
