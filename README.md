@@ -1,4 +1,4 @@
-### Hello, I'm Javi 👋 :upside_down_face:
+### Hello World, I'm Javi 👋 
 
 #### Topics currently learning more about:
 
